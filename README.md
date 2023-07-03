@@ -21,7 +21,7 @@
 
 Create a button that contains `icon_01` (as in the example in the last video). When the button is clicked, the icon should change to `icon_02`. Clicking the button again should change the icon back.
 
-`
+
 
 ## Task 2
 
